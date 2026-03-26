@@ -11,16 +11,17 @@
 </div>
 
 <!-- Quick Connect Badges -->
+
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-kapilraghav.info-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kapilraghav.info)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-kapilraghav2801-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapilraghav2801)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-kapilraghav-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kapilraghav/)
   [![Gmail](https://img.shields.io/badge/Gmail-kapilraghav1221-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapilraghav1221@gmail.com)
   
 </div>
 
 <br/>
+<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-kapilraghav-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kapilraghav/)-- !>
 
 <!-- About Me Terminal -->
 <img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV5ZnMxMTFwcjV6cHo3OHJ3dHBnMXVuZWJheGh4c3Q2NXB4Y2NtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
@@ -191,17 +192,15 @@ Scalable URL shortening service with collision-free ID generation and analytics.
   </picture>
 </div>
 
-> ⚠️ **To activate the snake:** Add the GitHub Actions workflow from `.github/workflows/snake.yml` in your profile repo. See setup instructions below.
-
 ---
 
-<!-- LeetCode Stats -->
+<!-- LeetCode Stats 
 ## 🧩 LeetCode Progress
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/kapilraghav?theme=dark&font=Fira%20Code&ext=heatmap" width="500"/>
 </div>
-
+ -->
 ---
 
 <!-- What I'm Up To -->
