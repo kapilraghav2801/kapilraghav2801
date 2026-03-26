@@ -159,20 +159,33 @@ Scalable URL shortening service with collision-free ID generation and analytics.
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Analytics
-
+ 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kapilraghav2801&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilraghav2801&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&langs_count=8" />
 </div>
-
+ 
+<br/>
+ 
+<!-- Streak Stats - using demolab which is the official/reliable host -->
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=kapilraghav2801&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=kapilraghav2801&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak" />
+  </a>
+</div>
+ 
+<br/>
+ 
+<!-- Profile Summary Cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapilraghav2801&theme=tokyonight" width="100%" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapilraghav2801&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kapilraghav2801&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kapilraghav2801&theme=tokyonight&utcOffset=5.5" width="32%" />
 </div>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kapilraghav2801&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
-</div>
 
 <!-- Activity Graph -->
 <div align="center">
@@ -186,9 +199,9 @@ Scalable URL shortening service with collision-free ID generation and analytics.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kapilraghav2801/kapilraghav2801/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kapilraghav2801/kapilraghav2801/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/kapilraghav2801/kapilraghav2801/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kapilraghav2801/kapilraghav2801/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/kapilraghav2801/kapilraghav2801/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/kapilraghav2801/kapilraghav2801/blob/output/github-snake.svg" />
   </picture>
 </div>
 
