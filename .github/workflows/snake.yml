@@ -1,13 +1,13 @@
-# This workflow generates a snake animation from your GitHub contribution graph
-
-
+# Place at: .github/workflows/snake.yml
 name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
